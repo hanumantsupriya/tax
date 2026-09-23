@@ -63,9 +63,9 @@ angular
                 ];
 
                 $scope.nivasi_type = [
-                    {name: 'निवासी', value: 'R'},
-                    {name: 'बिगर निवासी', value: 'N'},
-                    {name: 'ओपन प्लॉट', value: 'O'},
+                    {name: 'à¤¨à¤¿à¤µà¤¾à¤¸à¥€', value: 'R'},
+                    {name: 'à¤¬à¤¿à¤—à¤° à¤¨à¤¿à¤µà¤¾à¤¸à¥€', value: 'N'},
+                    {name: 'à¤“à¤ªà¤¨ à¤ªà¥à¤²à¥‰à¤Ÿ', value: 'O'},
                     {name: 'Parking', value: 'P'},
                 ];
 
